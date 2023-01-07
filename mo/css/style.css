@@ -1,0 +1,40 @@
+.hidden {
+    display: none;
+}
+
+body {
+    color:aliceblue;
+}
+
+#clock {
+    font-size: 120px;
+    text-align: center;
+}
+
+#greeting {
+    font-size: 90px;
+    text-align: center;
+}
+
+#todo-list {
+    font-size: 40px;
+    text-align: center;
+}
+
+#todo-form {
+    text-align: center;
+}
+
+#weather {
+    text-align: center;
+    font-size: 25px;
+}
+
+#quote {
+    font-size: 30px;
+    text-align: center;
+}
+
+* {
+    font-family: 'East Sea Dokdo', cursive;
+}
